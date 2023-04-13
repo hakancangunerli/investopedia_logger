@@ -22,3 +22,8 @@ Note: You may need to modify the webdriver initialization to use a different bro
 
 Selenium Documentation
 Microsoft Edge WebDriver
+
+
+# Picture
+
+![test](https://raw.githubusercontent.com/johngunerli/investopedia_logger/master/screenshot.png)
