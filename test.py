@@ -16,7 +16,6 @@ driver.get("https://www.investopedia.com/auth/realms/investopedia/protocol/openi
 # user agent change
 driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
-
 # click on the a tag with the text "Log in"
 
 driver.find_element(By.LINK_TEXT, "log in").click()

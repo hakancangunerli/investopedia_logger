@@ -6,7 +6,6 @@ Investopedia Login Automation is a Python script that uses Selenium and the Edge
 # Packages Used
 
 Selenium
-Edge webdriver
 
 # Usage
 
@@ -20,8 +19,7 @@ Note: You may need to modify the webdriver initialization to use a different bro
 
 # References
 
-Selenium Documentation
-Microsoft Edge WebDriver
+https://selenium-python.readthedocs.io
 
 
 # Picture
